@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="act_game">Snake</string>
+    <string name="btPlay">Play</string><string name="game_over">Game Over</string><string name="to_main_menu">Main menu</string><string name="btn_top_results">Top Results</string><string name="btn_exit">Exit</string>
+</resources>

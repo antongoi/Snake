@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<item name="btnPlay_id" type="id">btnPlay</item><item name="tr_test" type="id">tr_test</item><item name="game_tablelayout" type="id">game_tablelayout</item><item name="source_snakeBlock" type="id"/><item name="btnMainMenu" type="id">btnMainMenu</item><item name="btn_top_results" type="id">btn_top_results</item><item name="btn_exit" type="id">btn_exit</item></resources>
